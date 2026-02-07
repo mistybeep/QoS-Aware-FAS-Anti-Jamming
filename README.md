@@ -17,7 +17,7 @@
 ## 📡 系统模型 (System Model)
 
 
-![System Model]([https://youke.xn--y7xa690gmna.cn/s1/2026/02/07/69872d424873a.webp](https://youke.xn--y7xa690gmna.cn/s1/2026/02/07/69872ffff3b5f.webp))
+![System Model](https://youke.xn--y7xa690gmna.cn/s1/2026/02/07/69872ffff3b5f.webp)
 
 ---
 
