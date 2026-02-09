@@ -10,7 +10,7 @@
 > **Click below to switch between Chinese and English versions.** > **点击下方选项卡切换中英文版本。**
 
 <details>
-<summary><b>🇨🇳 中文版 (Chinese Version)</b></summary>
+<summary><b>🇨🇳 中文版</b></summary>
 
 ### 📖 简介
 由于无线信道的固有广播特性，无线通信日益容易受到恶意干扰攻击。本研究针对 **多用户多输入多输出 (MU-MIMO)** 网络，提出了一种新型的 **流体天线系统 (FAS)** 辅助的 **服务质量 (QoS) 感知抗干扰通信框架**。
@@ -43,7 +43,7 @@
 </details>
 
 <details open>
-<summary><b>🇺🇸 English Version (英文版)</b></summary>
+<summary><b>🇺🇸 English Version</b></summary>
 
 ### 📖 Introduction
 Wireless communications are increasingly vulnerable to malicious jamming due to the inherent broadcast nature of the medium. This research proposes a novel **Quality of Service (QoS)-aware anti-jamming framework** for **Multi-User Multiple-Input Multiple-Output (MU-MIMO)** networks, leveraged by **Fluid Antenna Systems (FAS)**.
