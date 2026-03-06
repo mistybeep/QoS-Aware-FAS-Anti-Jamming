@@ -1,4 +1,4 @@
-# QoS-Aware Anti-Jamming Communication in Fluid Antenna Systems: Continuous or Discrete Position Design?
+# QoS-Aware Anti-Jamming Communication in Fluid Antenna Systems: Continuous Versus Discrete Position Designs
 
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2023b-blue.svg)](https://www.mathworks.com/products/matlab.html)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -81,9 +81,8 @@ Simulations demonstrate that compared to traditional FPAs and existing benchmark
 If you use these algorithms or ideas in your research, please cite:
 
 ```bibtex
-@article{YourName2026QoS,
-  title={QoS-Aware Anti-Jamming Communication in Fluid Antenna Systems: Continuous or Discrete Position Design?},
-  author={Yifan Guo and Co-authors},
-  journal={Working Paper / Under Review},
+@article{FASQOS,
+  title={QoS-Aware Anti-Jamming Communication in Fluid Antenna Systems: Continuous Versus Discrete Position Designs},
+  author={Yifan Guo},
   year={2026}
 }
