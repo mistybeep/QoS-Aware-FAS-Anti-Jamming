@@ -1,4 +1,4 @@
-# QoS-Aware Anti-Jamming Communication in Fluid Antenna Systems: Continuous Versus Discrete Position Designs
+# Joint Beamforming and Antenna Position Optimization for FAS-assisted Anti-Jamming Communication: From Alternating Optimization to Sparse Recovery
 
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2023b-blue.svg)](https://www.mathworks.com/products/matlab.html)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
