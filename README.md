@@ -81,8 +81,12 @@ Simulations demonstrate that compared to traditional FPAs and existing benchmark
 If you use these algorithms or ideas in your research, please cite:
 
 ```bibtex
-@article{FASQOS,
-  title={FAS-aided Robust Anti-Jamming Communications: Continuous and Discrete Positioning Designs},
-  author={Yifan Guo},
-  year={2026}
+@article{guo2026fasaidedrobustantijammingcommunications,
+      title={FAS-aided Robust Anti-Jamming Communications: Continuous and Discrete Positioning Designs}, 
+      author={Yifan Guo and Junshan Luo and Shilian Wang and Zhenhai Xu},
+      year={2026},
+      eprint={2604.10897},
+      archivePrefix={arXiv},
+      primaryClass={eess.SP},
+      url={https://arxiv.org/abs/2604.10897}, 
 }
